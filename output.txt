@@ -1,0 +1,7 @@
+************* WORST - FIT *************** 
+start =>  300 600 350 200 750 125
+115 =>  300 600 350 200 115* 635 125
+500 =>  300 600 350 200 115* 500* 135 125
+3588 =>  not allocated, must wait
+200 =>  not allocated, must wait
+375 =>  not allocated, must wait
